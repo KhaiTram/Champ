@@ -15,3 +15,21 @@ img.rechtsoben {
   width: 60px;
   height: 180px;
 }
+
+img.rechtsunten {
+
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 60px;
+  height: 180px;
+}
+
+img.linksunten {
+
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  width: 30px;
+  height: 90px;
+}
