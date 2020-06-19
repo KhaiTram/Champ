@@ -10,8 +10,8 @@ img.linksoben {
 img.rechtsoben {
 
   position: absolute;
-  right: 0;
-  top: 0;
+  right: 20;
+  top: 50;
   width: 30px;
   height: 90px;
 }
