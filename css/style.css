@@ -1,27 +1,74 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     background-color:#032343;
     color:white
   }
-
-    
-  
-  .parallax {
+ 
+  #beine{
     /* The image used */
-    background-image: url('../declinepushup\ \(1\).gif');
-  
-    /* Full height */
-    height: 1000px; 
+    background-image: url('../pictures/start_leicht/Beine.png');
+
+    height: 300px; 
   
     /* Create the parallax scrolling effect */
     background-color: black;
-    background-attachment: fixed;
+    background-attachment: fixed; 
     background-position: center;
     background-repeat: no-repeat;
-    background-size:  20% 60%;
+  }
+
+  #bauch{
+    /* The image used */
+    background-image: url('../pictures/start_leicht/Bauch.png');
+
+    height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-color: black;
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  #brust{
+    /* The image used */
+    background-image: url('../pictures/start_leicht/Brust.png');
+
+    height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-color: black;
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  #arme{
+    /* The image used */
+    background-image: url('../pictures/start_leicht/Arme.png');
+
+    height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-color: black;
+    background-attachment: fixed; 
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  #top{
+    margin-top: 20px;
   }
 
   #leicht{
     padding-top: 5%;
+  }
+
+  .flex-row-reverse{
+    padding-right: 20%;
   }
 
   .arm {
