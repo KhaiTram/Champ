@@ -5,5 +5,13 @@ img.linksoben {
   top: 0;
   width: 30px;
   height: 90px;
-  border: 0px solid #000;
+}
+
+img.rechtsoben {
+
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 30px;
+  height: 90px;
 }
