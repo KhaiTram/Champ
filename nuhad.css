@@ -1,9 +1,8 @@
-.flex {display: flex;
-justify-content: center;
-align-items: center;}
+img.linksoben {
 
-.flex1 {display: flex;
-justify-content: top;
-align-items: top;
-
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 30px;
+  height: 90px;
 }
