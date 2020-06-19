@@ -1,0 +1,45 @@
+img.linksoben {
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 30px;
+  height: 90px;
+}
+
+img.rechtsoben {
+
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 20px;
+  height: 40px;
+}
+
+img.rechtsunten {
+
+  position: center;
+  right: 0;
+  bottom: 0;
+  width: 20px;
+  height: 40px;
+}
+
+img.linksunten {
+
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  width: 20%;
+  height: 40%;
+}
+
+.header {
+  display: table;
+  width: 100%;
+  height: 10em;
+}
+ h1{
+   display: table-cell;
+   vertical-align: middle;
+ }
