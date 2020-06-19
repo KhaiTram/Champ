@@ -39,3 +39,7 @@ img.linksunten {
   width: 100%;
   height: 10em;
 }
+ h1{
+   display: table-cell;
+   vertical-align: middle;
+ }
