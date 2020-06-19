@@ -33,3 +33,12 @@ img.linksunten {
   width: 20px;
   height: 40px;
 }
+
+section.info {
+
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 50;
+  height: 100;
+}
