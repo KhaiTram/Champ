@@ -1,0 +1,177 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+      background-color:#032343;
+      color:white
+    }
+   
+    #beine{
+      /* The image used */
+      background-image: url('../pictures/start_schwer/Beine.png');
+  
+      height: 300px; 
+    
+      /* Create the parallax scrolling effect */
+      background-color: black;
+      background-attachment: fixed; 
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  
+    #bauch{
+      /* The image used */
+      background-image: url('../pictures/start_schwer/Bauch.png');
+  
+      height: 300px; 
+    
+      /* Create the parallax scrolling effect */
+      background-color: black;
+      background-attachment: fixed; 
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  
+    #brust{
+      /* The image used */
+      background-image: url('../pictures/start_schwer/Brust.png');
+  
+      height: 300px; 
+    
+      /* Create the parallax scrolling effect */
+      background-color: black;
+      background-attachment: fixed; 
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  
+    #arme{
+      /* The image used */
+      background-image: url('../pictures/start_schwer/Arme.png');
+  
+      height: 300px; 
+    
+      /* Create the parallax scrolling effect */
+      background-color: black;
+      background-attachment: fixed; 
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  
+    #top{
+      margin-top: 20px;
+    }
+  
+    #leicht{
+      padding-top: 5%;
+    }
+  
+    .flex-row-reverse{
+      padding-right: 20%;
+    }
+  
+    .arm {
+      position: absolute;
+      top: 33%;
+      left: 5%;
+      width: 9%;
+      height: 20%;
+      color: transparent;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      background-color: transparent;
+      background-repeat:no-repeat;
+      border: none;
+      overflow: hidden;
+      outline:none; 
+    }
+  
+    .bauch {
+      position: absolute;
+      top: 50%;
+      left: 14%;
+      width: 10%;
+      height: 10%;
+      color: transparent;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      background-color:transparent;
+      background-repeat:no-repeat;
+      border: none;
+      overflow: hidden;
+      outline:none; 
+    }
+  
+    .beine {
+      position: absolute;
+      top: 65%;
+      left: 10%;
+      width: 17%;
+      height: 25%;
+      color: transparent;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      background-color:transparent;
+      background-repeat:no-repeat;
+      border: none;
+      cursor:pointer;
+      overflow: hidden;
+      outline:none; 
+    }
+  
+    .brust {
+      position: absolute;
+      top: 40%;
+      left: 14%;
+      width: 10%;
+      height: 10%;
+      color: transparent;
+      font-size: 16px;
+      cursor: pointer;
+      text-align: center;
+      background-color: transparent;
+      background-repeat:no-repeat;
+      border: none;
+      overflow: hidden;
+      outline:none; 
+    }
+  
+    .itsTime {
+      padding-left: 10%;
+      padding-right: 10%;
+      display: inline-block;
+    }
+  
+  
+  .difficulty img:hover {
+    filter: brightness(200%);
+  }
+  
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #111;
+    }
+  
+   
