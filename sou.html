@@ -5,7 +5,7 @@
 	<title>Exercise</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css" />
 	<link rel="stylesheet" href="sou.css">
 	<link rel="stylesheet" href="css/hover-min.css" media="all">
@@ -13,17 +13,24 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	
 	<script src="js/wow.min.js"></script>
+
 </head>
 
 <body style="background-color:#032343;">
 
-
+	<div class="fluid-container"></div>
 
 	<div id="MagicCarousel" class="carousel slide" data-interval="false" data-ride="carousel">
 		<div calss="carousel-inner" role="listbox">
 			<div class="carousel-item active">
-				<img class="mx-auto d-block w-15 Schrift" src="pictures/leicht/Schritt1.png" alt="First Slide">
+				<div class="row">
+					<div class="col-sm-4"></div>
+					<div class="col-sm-4">
+						<img class="mx-auto d-block w-15 Schrift" width="100%" src="pictures/leicht/Schritt1.png" alt="First Slide">
+					</div>
+				</div>
 				<img class="mx-auto d-block w-5 Pfeil" src="pictures/leicht/PfeilBlauRechts.png" alt="First Slide">
 				<img class="mx-auto d-block w-20 PfeilLinks" src="pictures/leicht/PfeilBlauLinks.png" alt="First Slide">
 				<img class="mx-auto d-block w-20 Bild" src="pictures/leicht/Hampelmann_schritt1.png" alt="First Slide">
@@ -66,6 +73,7 @@
 			</a>
 		</div>
 
+	</div>
 	</div>
 
 </body>
