@@ -8,13 +8,10 @@
    width: 93%;
 }
 
-.carcon{
-   color: transparent;
-    cursor: pointer;
-    background-color:transparent;
-    border: none;
-    overflow: hidden;
-    outline:none; 
+.Gif{
+   margin-top: 33%;
+    transform: translate(0%, -15%);
+    width: 100%;
 }
 
 #Hampel3{
