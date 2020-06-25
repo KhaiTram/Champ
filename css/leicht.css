@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.navItems{
+  font-family: Avenir Black Oblique;
+}
+
 body {
     background-color:#032343;
     color:white
@@ -68,7 +72,8 @@ body {
   }
 
   .flex-row-reverse{
-    padding-right: 20%;
+    padding-right: 13%;
+    padding-top: 3%;
   }
 
   .arm {
@@ -171,7 +176,7 @@ body {
   }
   
   li a:hover {
-    background-color: #111;
+    filter: brightness(200%);
   }
 
  
