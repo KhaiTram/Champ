@@ -1,23 +1,30 @@
 
 .Bild {
-   transform: translate(0%, -40%);
+   transform: translate(0%, -20%);
+   width: 250px;
+}
+
+.Schrift {
+   width: 250px;
 }
 
    .Text {
-        transform: translate(0%, -95%);
+        transform: translate(0%, -50%);
+        width: 200px;
    }
 .Untertitel {
-        transform: translate(0%, -150%);
+        transform: translate(0%, -120%);
+        width: 280px;
    }
 
    .Pfeil {
-      transform: translate(420%, 230%);
-      width: 500px;
+      transform: translate(590%, 380%);
+      width: 100px;
    }
 
    .PfeilLinks {
-      transform: translate(-420%, 90%);
-      width: 500px;
+      transform: translate(-590%, 240%);
+      width: 100px;
    }
 
 #slider {

@@ -18,12 +18,12 @@
 
    .Pfeil {
       transform: translate(590%, 380%);
-      width: 100px;
+      width: 6%;
    }
 
    .PfeilLinks {
       transform: translate(-590%, 240%);
-      width: 100px;
+      width: 6%;
    }
 
 #slider {
