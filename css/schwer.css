@@ -8,7 +8,7 @@ html {
     }
 
     .navItems{
-      font-family: Avenir Black Oblique;
+      font-family: Avenir Black;
     }
    
     #beine{
@@ -169,7 +169,7 @@ html {
     
     li a {
       display: block;
-      color: white;
+      color: #ed1e79;
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;

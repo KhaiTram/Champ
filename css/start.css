@@ -1,7 +1,7 @@
 #logo{
-  width: 30%;
-  margin-left: 33%;
-  margin-top: 5%;
+  width: 100%;
+
+  margin-top: 8%; 
 }
 
 #bild1{
@@ -36,16 +36,19 @@
   height: auto;
 }
 
+#start{
+  font-size: x-large;
+  color: #ed1e79;
+}
+
 h1 {
 
   display: block;
   color: white;
   text-align: center;
-  font-size: 500%;
-  padding: 16px 20px;
-  text-decoration: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translateX(-50%) translateY(-50%);
+  line-height: 180%;
+  font-family: Avenir Black;
+  margin-top: 5%;
+  font-size: 120%;
+  
 }

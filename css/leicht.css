@@ -3,7 +3,8 @@ html {
 }
 
 .navItems{
-  font-family: Avenir Black Oblique;
+  font-family: Avenir Black;
+ 
 }
 
 body {
@@ -169,7 +170,7 @@ body {
   
   li a {
     display: block;
-    color: white;
+    color: #7fcdee;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
