@@ -6,6 +6,10 @@ html {
       background-color:#032343;
       color:white
     }
+
+    .navItems{
+      font-family: Avenir Black Oblique;
+    }
    
     #beine{
       /* The image used */
@@ -68,7 +72,8 @@ html {
     }
   
     .flex-row-reverse{
-      padding-right: 20%;
+      padding-right: 13%;
+      padding-top: 3%;
     }
   
     .arm {
