@@ -77,6 +77,11 @@ body {
     padding-top: 3%;
   }
 
+  .arm a:hover {
+    border: white;
+    background-color: white;
+  }
+
   .arm {
     position: absolute;
     top: 33%;

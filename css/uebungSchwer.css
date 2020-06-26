@@ -4,11 +4,29 @@
    margin: 25%;
 }
 
+#demo{
+   color: white;
+   text-align: center;
+   position: absolute;
+   top: 15%;
+   font-family: avenir Black;
+   left: 33%;
+   width: 100%;
+   font-size: 120%;
+}
+
 #UhrIcon{
    width: 10%;
    position: absolute;
    left: 65%;
-   top: 40%
+   top: 20%
+}
+
+#IconText{
+   width: 10%;
+   position: absolute;
+   left: 75%;
+   top: 20%
 }
 
 
@@ -19,7 +37,7 @@
 }
 
 .Gif{
-   margin-top: 59%;
+   margin: 29.5%;
    transform: translate(0%, -15%);
    width: 100%;
 }
