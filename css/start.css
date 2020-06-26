@@ -1,0 +1,54 @@
+#logo{
+  width: 100%;
+
+  margin-top: 8%; 
+}
+
+#bild1{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 20%;
+  height: auto;
+}
+
+#bild2{
+  position: absolute;
+  top: 15%;
+  right: 5%;
+  width: 30%;
+  height: auto;
+}
+
+#bild3{
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+  width: 30%;
+  height: auto;
+}
+
+#bild4{
+  position: absolute;
+  top: 40%;
+  right: 18%;
+  width: 10%;
+  height: auto;
+}
+
+#start{
+  font-size: x-large;
+  color: #ed1e79;
+}
+
+h1 {
+
+  display: block;
+  color: white;
+  text-align: center;
+  line-height: 180%;
+  font-family: Avenir Black;
+  margin-top: 5%;
+  font-size: 120%;
+  
+}

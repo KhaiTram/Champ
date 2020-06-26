@@ -3,7 +3,6 @@ var onScrollHandler = function () {
   stopParallax("brust");
   stopParallax("bauch");
   stopParallax("arme");
-
 };
 window.addEventListener("scroll", onScrollHandler);
 
