@@ -19,6 +19,13 @@
    width: 80%;
 }
 
+#navBack{
+   position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 10%;
+}
+
 .Schrift {
    width: 100%;
 }
